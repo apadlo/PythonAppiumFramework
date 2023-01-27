@@ -1,0 +1,1 @@
+[32mINFO    [0m BasePage:BasePage.py:85 Unable to send text to element with LocatorType: 'id' and LocatorValue: 'com.skill2lead.appiumdemo:id/Edt_admin'

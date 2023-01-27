@@ -1,0 +1,2 @@
+[32mINFO    [0m BasePage:BasePage.py:68 Clicked on element with LocatorType: 'id' and LocatorValue: 'com.skill2lead.appiumdemo:id/ContactUs'
+[32mINFO    [0m BasePage:BasePage.py:96 Element with LocatorType: 'text' and LocatorValue: 'Contact Us form' is displayed

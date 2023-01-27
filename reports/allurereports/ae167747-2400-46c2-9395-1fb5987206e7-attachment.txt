@@ -1,0 +1,2 @@
+[32mINFO    [0m BasePage:BasePage.py:82 Sent text to element with LocatorType: 'id' and LocatorValue: 'com.skill2lead.appiumdemo:id/Edt_admin'
+[32mINFO    [0m BasePage:BasePage.py:68 Clicked on element with LocatorType: 'id' and LocatorValue: 'com.skill2lead.appiumdemo:id/Btn_admin_sub'
